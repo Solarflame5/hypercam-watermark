@@ -6,7 +6,9 @@ A simple shitpost I made in 30 minutes for fun.
 ![A screenshot on top of Firefox](screenshots/firefox.png)
 ![A screenshot on top of Discord](screenshots/discord.png)
 ![tutorial](screenshots/notepad.png)
+
 very efficient on system resources
+
 ![wow so light](screenshots/taskmgr.png)
 ## how to run
 Run the `.pyw` file or run the `.py` file using `pythonw.exe`
