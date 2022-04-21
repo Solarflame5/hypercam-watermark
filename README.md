@@ -1,10 +1,17 @@
 # hypercam-watermark
-unregistered hypercam 2 watermark for your desktop.
-a simple shitpost i made in 30 minutes for fun.
+Unregistered HyperCam 2 watermark for your desktop.
+A simple shitpost I made in 30 minutes for fun.
+## Screenshots
+![A screenshot from my desktop](screenshots/desktop.png)
+![A screenshot on top of Firefox](screenshots/firefox.png)
+![A screenshot on top of Discord](screenshots/discord.png)
+![tutorial](screenshots/notepad.png)
+very efficient on system resources
+![wow so light](screenshots/taskmgr.png)
 ## how to run
-run the `.pyw` file or run the `.py` file using `pythonw.exe`
+Run the `.pyw` file or run the `.py` file using `pythonw.exe`
 ## how to close
-focus on the watermark window by clicking on it and press alt + f4 to close.
+Focus on the watermark window by clicking on it and press `Alt` + `F4` to close.
 ## notes
-completely standalone, it does not use a picture of the watermark.
-probably only works on windows because it uses the "System" font bundled with windows.
+- Completely standalone, it does not use a picture of the watermark, instead uses the "System" font.
+- Looks exactly like the real watermark on Windows, it looks similiar on Linux, I have not tested it on macOS
