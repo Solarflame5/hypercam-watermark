@@ -1,6 +1,8 @@
 # hypercam-watermark
 Unregistered HyperCam 2 watermark for your desktop.
 A simple shitpost I made in 30 minutes for fun.
+
+If you want to change something then fork the repository.
 ## Screenshots
 ![A screenshot from my desktop](screenshots/desktop.png)
 ![A screenshot on top of Firefox](screenshots/firefox.png)
